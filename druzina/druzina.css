@@ -10,6 +10,7 @@
     height: 101%;
     top: -1%;
     fill: white;
+    z-index: 1;
 }
 .figure {
     position: relative;
@@ -19,7 +20,22 @@
 .custom-img-pos {
     object-position: 50% -15%;
 }
-
+.figure-text {
+    position: relative;
+    text-align: center;
+    bottom: 90%;
+    font-size: 1.1em;
+    color: black;
+    opacity: 0%;
+    transition: 300ms;
+    background-color: white;
+    padding: 20px;
+    border-top: black 1px solid;
+    border-bottom: black 1px solid;
+}
+.figure-svg:hover ~ .figure-text{
+    opacity: 100%;
+}
 
 .gallery-table {
     display: flex;
