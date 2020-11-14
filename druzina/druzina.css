@@ -16,6 +16,9 @@
     width: 270px;
     height: 360px;
 }
+.custom-img-pos {
+    object-position: 50% -15%;
+}
 
 
 .gallery-table {
