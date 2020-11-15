@@ -86,6 +86,15 @@
         width: 300px;
         height: 400px;
     }
+    .figure-back{
+        width: 300px;
+    }
+    .figure-svg:hover ~ .figure-back{
+        height: 400px;
+    }
+    .figure-text {
+        font-size: 1.2em;
+    }
 }
 
 @media only screen and (max-width: 350px) {
@@ -98,5 +107,14 @@
         margin: 10px 0;
         border: none;
         width: auto;
+    }
+    .figure-back{
+        width: 150px;
+    }
+    .figure-svg:hover ~ .figure-back{
+        height: 200px;
+    }
+    .figure-text {
+        font-size: 0.9em;
     }
 }
