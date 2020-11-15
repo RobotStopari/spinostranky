@@ -24,7 +24,7 @@
     position: relative;
     text-align: center;
     bottom: 90%;
-    font-size: 1.1em;
+    font-size: 0.9em;
     color: white;
     opacity: 0%;
     transition: 500ms;
@@ -37,7 +37,7 @@
 .figure-back{
     width: 270px;
     height: 0px;
-    background-color: #255b9ed7;
+    background-color: #255b9eea;
     position: absolute;
     z-index: 1;
     bottom: 0;
