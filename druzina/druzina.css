@@ -10,7 +10,7 @@
     height: 101%;
     top: -1%;
     fill: white;
-    z-index: 1;
+    z-index: 3;
 }
 .figure {
     position: relative;
@@ -25,16 +25,26 @@
     text-align: center;
     bottom: 90%;
     font-size: 1.1em;
-    color: black;
+    color: white;
     opacity: 0%;
-    transition: 300ms;
-    background-color: white;
-    padding: 20px;
-    border-top: black 1px solid;
-    border-bottom: black 1px solid;
+    transition: 500ms;
+    padding: 20px;;
+    z-index: 2;
 }
 .figure-svg:hover ~ .figure-text{
     opacity: 100%;
+}
+.figure-back{
+    width: 270px;
+    height: 0px;
+    background-color: #255b9ed7;
+    position: absolute;
+    z-index: 1;
+    bottom: 0;
+    transition: 400ms ease-in-out;
+}
+.figure-svg:hover ~ .figure-back{
+    height: 360px;
 }
 
 .gallery-table {
