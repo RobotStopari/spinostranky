@@ -1,0 +1,43 @@
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: flex-end;
+}
+.window {
+    width: 200px;
+    height: auto;
+    padding: 10px;
+    border-radius: 20px;
+}
+.window-heading {
+    text-align: center;
+    margin-bottom: 5px;
+    font-weight: 600;
+    font-size: 1em;
+    border-bottom: rgb(161, 161, 161) 2px solid;
+    width: 130px;
+    margin: auto;
+}
+.window-img {
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+@media only screen and (max-width: 350px) {
+    .window {
+        width: 120px;
+    }
+    .window-heading {
+        width: auto;
+    }
+    .window-img {
+        width: 120px;
+        height: 90px;
+    }
+}
