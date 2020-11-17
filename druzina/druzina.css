@@ -38,11 +38,17 @@
 .figure-back{
     width: 270px;
     height: 0px;
-    background-color: #255b9eea;
     position: absolute;
+    background-color: #255b9eea;
     z-index: 1;
     bottom: 0;
     transition: 400ms ease-in-out;
+}
+.green {
+    background-color: #48651Dea;
+}
+.brown {
+    background-color: #8D5F0Fea;
 }
 .figure-svg:hover ~ .figure-back{
     height: 360px;
