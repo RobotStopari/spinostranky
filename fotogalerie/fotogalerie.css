@@ -10,6 +10,7 @@
     height: auto;
     padding: 10px;
     border-radius: 20px;
+    position: relative;
 }
 .window-heading {
     text-align: center;
@@ -27,6 +28,32 @@
     border-radius: 15px;
     margin: auto;
     margin-top: 10px;
+    z-index: 1;
+}
+.window-back {
+    background-color: #255b9eea;
+    width: 200px;
+    height: 0px;
+    position: absolute;
+    bottom: 16px;
+    left: 10px;
+    border-radius: 15px;
+    transition: 300ms;
+    opacity: 0%;
+    text-align: center;
+    text-decoration: none;
+}
+.window-img:hover ~ .window-back {
+    height: 150px;
+    opacity: 100%;
+}
+.window-back:hover {
+    height: 150px;
+    opacity: 100%;
+}
+.window-date {
+    margin-top: 60px;
+    color: white;
 }
 
 @media only screen and (max-width: 350px) {
