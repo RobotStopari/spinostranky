@@ -43,6 +43,12 @@
     text-align: center;
     text-decoration: none;
 }
+.green {
+    background-color: #48651Dea;
+}
+.brown {
+    background-color: #8D5F0Fea;
+}
 .window-img:hover ~ .window-back {
     height: 150px;
     opacity: 100%;
