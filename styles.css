@@ -98,6 +98,20 @@
         margin-left: 30px;
     }
 
+    .birthday {
+        margin: 10px;
+        margin-left: 30px;
+        float: right;
+        width: 25%;
+    }
+    .birthday-img {
+        width: 100%;
+        border-radius: 15px;
+    }
+    .birthday-text {
+        text-align: center;
+    }
+
     .quote {
         background-color: rgba(255, 255, 0, 0.295);
         width: 300px;
@@ -178,6 +192,13 @@
         width: 250px;
         margin: auto;
         margin-top: 40px;
+    }
+    .birthday {
+        float: none;
+        width: 40%;
+        margin: auto;
+        margin-top: 10px;
+        margin-bottom: 15px;
     }
 }
 

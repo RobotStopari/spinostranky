@@ -39,8 +39,8 @@
     width: 270px;
     height: 0px;
     position: absolute;
-    background-color: #255b9eea;
     z-index: 1;
+    background-color: #255b9eea;
     bottom: 0;
     transition: 400ms ease-in-out;
 }
@@ -49,6 +49,9 @@
 }
 .brown {
     background-color: #8D5F0Fea;
+}
+.blue {
+    background-color: #255b9eea;
 }
 .figure-svg:hover ~ .figure-back{
     height: 360px;

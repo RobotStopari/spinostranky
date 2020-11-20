@@ -49,6 +49,9 @@
 .brown {
     background-color: #8D5F0Fea;
 }
+.blue {
+    background-color: #255b9eea;
+}
 .window-img:hover ~ .window-back {
     height: 150px;
     opacity: 100%;
