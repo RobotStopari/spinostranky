@@ -76,7 +76,7 @@
     margin-bottom: 5px;
 }
 
-@media only screen and (max-width: 780px) {
+@media only screen and (max-width: 850px) {
     .figure-img {
         object-fit: cover;
         display: block;

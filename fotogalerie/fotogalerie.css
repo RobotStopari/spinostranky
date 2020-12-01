@@ -3,7 +3,6 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    align-items: flex-end;
 }
 .window {
     width: 200px;
@@ -17,55 +16,24 @@
     margin-bottom: 5px;
     font-weight: 600;
     font-size: 1em;
-    border-bottom: rgb(161, 161, 161) 2px solid;
-    width: 130px;
     margin: auto;
 }
 .window-img {
     width: 200px;
     height: 150px;
     object-fit: cover;
-    border-radius: 15px;
     margin: auto;
     margin-top: 10px;
     z-index: 1;
-}
-.window-back {
-    background-color: #255b9eea;
-    width: 200px;
-    height: 0px;
-    position: absolute;
-    bottom: 16px;
-    left: 10px;
-    border-radius: 15px;
     transition: 300ms;
-    opacity: 0%;
-    text-align: center;
-    text-decoration: none;
+    opacity: 80%;
+    border-radius: 4px;
 }
-.green {
-    background-color: #48651Dea;
-}
-.brown {
-    background-color: #8D5F0Fea;
-}
-.blue {
-    background-color: #255b9eea;
-}
-.window-img:hover ~ .window-back {
-    height: 150px;
+.window-img:hover {
     opacity: 100%;
-}
-.window-back:hover {
-    height: 150px;
-    opacity: 100%;
-}
-.window-date {
-    margin-top: 60px;
-    color: white;
 }
 
-@media only screen and (max-width: 350px) {
+@media only screen and (max-width: 280px) {
     .window {
         width: 120px;
     }

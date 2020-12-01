@@ -17,9 +17,10 @@
            <h1 class="page-heading">Naše fotografie</h1>
            <div class="gallery">
 
-                <?php $title = "Příprava tábora"; $img = "PripravaTabora.JPG"; $alt = "Příprava tábora"; $style = "object-position: 50% 10%"; $link = "https://photos.app.goo.gl/aXEQmUPJ1YwQMyN1A"; $color = "blue"; $date = "20.–24. 6. 2020"; include "gallery.php"; ?>
+                <?php $title = "Příprava tábora"; $img = "PripravaTabora.JPG"; $style = "object-position: 50% 10%"; $link = "https://photos.app.goo.gl/aXEQmUPJ1YwQMyN1A"; include "gallery.php"; ?>
 
-                <?php $title = "Květnová oddílová rada"; $img = "KvetnovaOddilovaRada.jpeg"; $alt = "Květnová oddílová rada"; $style = "object-position: 50% 40%"; $link = "https://photos.app.goo.gl/vp4eDEFbgDygcES66"; $color = "brown"; $date = "23. 5. 2020"; include "gallery.php"; ?>
+                <?php $title = "Květnová oddílová rada"; $img = "KvetnovaOddilovaRada.jpeg"; $style = "object-position: 50% 40%"; $link = "https://photos.app.goo.gl/vp4eDEFbgDygcES66"; include "gallery.php"; ?>
+
            </div>
         </div>
     </div>
