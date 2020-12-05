@@ -1,6 +1,6 @@
     <nav class="head">
         <div class="head-float">
-            <a href="/"><img src="./images/Logo.png" alt="logo" class="logo"></a>
+            <a href="/"><img src="/images/Logo.png" alt="logo" class="logo"></a>
             <ul class="navbar">
                 <li class="navbar-item"><a href="/" class="navbar-link">O nás</a></li>
                 <li class="navbar-item"><a href="/druzina/" class="navbar-link">Členové</a></li>
