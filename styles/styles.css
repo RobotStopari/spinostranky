@@ -29,14 +29,17 @@
         font-weight: 500;
         font-size: 20px;
     }
-    .page-heading {
+    .link {
+        color: rgb(186,74,20);
+    }
+    .page-heading, h1 {
         margin-bottom: 20px;
         font-size: 2em;
         font-family: skautbold;
         border-bottom: solid 1px black;
     }
     body {
-        background-image: url(images/tapeta.png);
+        background-image: url(../images/main/tapeta.png);
         background-size: cover;
     }
     
