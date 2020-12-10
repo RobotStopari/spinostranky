@@ -1,0 +1,51 @@
+.link {
+    text-decoration: none;
+    display: block;
+    width: 230px;
+    height: 150px;
+    text-align: center;
+    color: white;
+    font-family: skautbold;
+    padding-top: 80px;
+    transition: 200ms;
+    font-size: 30px;
+    opacity: 80%;
+}
+.window {
+    list-style-type: none;
+    position: relative;
+}
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+svg {
+    position: absolute;
+    height: 101%;
+    width: 100%;
+    fill: white;
+    top: -2px;
+    left: 0;
+}
+.link:hover {
+    opacity: 100%;
+}
+.green {
+    background-color: #48651Dea;
+}
+.brown {
+    background-color: #8D5F0Fea;
+}
+.blue {
+    background-color: #255b9eea;
+}
+
+@media only screen and (max-width: 270px) {
+    .link {
+        width: 150px;
+        height: 100px;
+        padding-top: 50px;
+        font-size: 20px;
+    }
+}
