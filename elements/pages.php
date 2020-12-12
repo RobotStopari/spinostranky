@@ -3,7 +3,13 @@ $pages = [
     [
         "heading" => "Naše kronika",
         "url" => "/inspiruj-se/nase-kronika",
-        "content" => "<p>Zde naleznete naši kroniku - všechny zápisy a zážitky z našich akcí a výprav. Můžete se zde inspirovat, nebo si jen pročíst, co lze všechno zažít v družinovém životě.</p><p>Tuto stránku pro vás ještě připravujeme.</p>",
+        "content" => "<p>Zde naleznete naši kroniku - všechny zápisy a zážitky z našich akcí a výprav. Můžete se zde inspirovat, nebo si jen pročíst, co lze všechno zažít v družinovém životě.</p><p>Tuto stránku pro vás ještě připravujeme.</p>
+        <h2>Spinosaurská akce na Báře 4.‒6. 12. 2020</h2>
+        <p>V pátek jsme se sešli na Báře. Nejprve dorazil Robot a José, kteří společně vymysleli jídelníček. Poté, co přijel Vítek, došli nakoupit a vyžebrali si dvě desetikoruny do nákupních vozíčků (jednu od Martina a druhou od Ondry). Při vaření večeře, ke které bylo lečo, se dostavil Nik a Strom. Po výborné večeři jsme si pouštěli Záskok od J8ry Cimrmana. <br>
+        Druhý den jsme vstali poněkud později, ke snídani byla již celkem povedená míchaná vajíčka. Následně jsme poslouchali přednášku z Miquiku. Po jejím konci jsme se plni nových vědomostí běželi proběhnout a rychle jsme si pospíšili na další, tentokrát o sociálních sítích a jejich vlivu na společnost. Během této doby se dostavil i Kipi a naše parta byla již téměř celá. Po setmění jsme se pustili do vaření cibulačky a bramborových knedlíků k večeři, na které jsme si opět velmi pochutnali. <br>
+        Ráno nás bohužel opustili Kipi a Vítek, ale my jsme pokračovali i bez nich. Vymysleli jsme program na oddílovou výpravu následující víkend. <br>
+        Tento víkend jsme si všichni moc a moc užili. <br><br>
+        Robot, 13. 12. 2020</p>",
         "color" => "green",
     ],
     [
