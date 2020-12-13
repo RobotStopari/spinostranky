@@ -1,17 +1,9 @@
-<!DOCTYPE html>
-<html lang="cs">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles/styles.css">
-    <link rel="stylesheet" href="styles/fotografie.css">
-    <title>Fotogalerie</title>
-    <link rel="icon" href="images/main/LogoFullTr.png">
-    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap" rel="stylesheet">
-</head>
-
-<body>
-    <?php include 'elements/navigation.php';?>
+    <?php
+        $title = 'Fotogalerie'; 
+        $addToHead = '<link rel="stylesheet" href="styles/fotografie.css">';
+        include 'elements/head.php';
+        include 'elements/navigation.php';
+    ?>
     <div class="page">
         <div class="page-float">
            <h1 class="page-heading">Naše fotografie</h1>
