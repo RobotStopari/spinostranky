@@ -9,7 +9,19 @@ $pages = [
         Druhý den jsme vstali poněkud později, ke snídani byla již celkem povedená míchaná vajíčka. Následně jsme poslouchali přednášku z Miquiku. Po jejím konci jsme se plni nových vědomostí běželi proběhnout a rychle jsme si pospíšili na další, tentokrát o sociálních sítích a jejich vlivu na společnost. Během této doby se dostavil i Kipi a naše parta byla již téměř celá. Po setmění jsme se pustili do vaření cibulačky a bramborových knedlíků k večeři, na které jsme si opět velmi pochutnali. <br>
         Ráno nás bohužel opustili Kipi a Vítek, ale my jsme pokračovali i bez nich. Vymysleli jsme program na oddílovou výpravu následující víkend. <br>
         Tento víkend jsme si všichni moc a moc užili. <br><br>
-        Robot, 13. 12. 2020</p>",
+        Robot, 13. 12. 2020</p>
+        <h2>Spinosaurská online schůzka 7. 1. 2021</h2>
+        <p>Docházka: Nik, Robot, Vítek, José (tedy všichni)</p>
+        <p style='float:left; width:50%'>Čekajíc na Vítka, vyprávěli jsme si o Vánocích.
+        Robot dostal elektrickou kytaru, Jose slim kroj, Nik (tedy já) lego hasiče a Vítek… nevím.
+        S půlhodinovým zpožděním, kdy jsme se konečně sešli všichni, jsme zahájili schůzku zatroubením na roh a družinovým pokřikem.
+        Po té měl Nik (tedy já) asi půlhodinovou přednášku o meteorologii, čímž si splnil bod do odborky. Dozvěděli jsme se například co je to tlaková níže (neboli cyklona), nebo jak funguje studená a teplá fronta.
+        Následně jsme začali řešit oragnizační družinové záležitosti. Rozdělili jsme si následující schůzky.
+        Příští schůzku má na starosti opět Nik (tedy já), protože ostatní mají buď uzávěrku klasifikace, nebo zkouškové. José přislíbil přednášku o automatech.
+        Na závěr jsme si zahráli krunker.io. Robot střílí zcela náhodně, ale vždy trefí. Nik míří přesně, ale nikdy netrefí.
+        Zapomněli jsme zakončit. Ajaj. <br><br>
+        Nik, 7. 1. 2021</p>
+        <img style='height:800px; float:right; margin:20px;' src='/images/pages/schuzka7-1.png'",
         "color" => "green",
     ],
     [
