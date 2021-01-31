@@ -4,12 +4,71 @@ $pages = [
         "heading" => "Naše kronika",
         "url" => "/inspiruj-se/nase-kronika",
         "content" => "<p>Zde naleznete naši kroniku - všechny zápisy a zážitky z našich akcí a výprav. Můžete se zde inspirovat, nebo si jen pročíst, co lze všechno zažít v družinovém životě.</p><p>Tuto stránku pro vás ještě připravujeme.</p>
-        <h2>Spinosaurská akce na Báře 4.‒6. 12. 2020</h2>
-        <p>V pátek jsme se sešli na Báře. Nejprve dorazil Robot a José, kteří společně vymysleli jídelníček. Poté, co přijel Vítek, došli nakoupit a vyžebrali si dvě desetikoruny do nákupních vozíčků (jednu od Martina a druhou od Ondry). Při vaření večeře, ke které bylo lečo, se dostavil Nik a Strom. Po výborné večeři jsme si pouštěli Záskok od J8ry Cimrmana. <br>
-        Druhý den jsme vstali poněkud později, ke snídani byla již celkem povedená míchaná vajíčka. Následně jsme poslouchali přednášku z Miquiku. Po jejím konci jsme se plni nových vědomostí běželi proběhnout a rychle jsme si pospíšili na další, tentokrát o sociálních sítích a jejich vlivu na společnost. Během této doby se dostavil i Kipi a naše parta byla již téměř celá. Po setmění jsme se pustili do vaření cibulačky a bramborových knedlíků k večeři, na které jsme si opět velmi pochutnali. <br>
-        Ráno nás bohužel opustili Kipi a Vítek, ale my jsme pokračovali i bez nich. Vymysleli jsme program na oddílovou výpravu následující víkend. <br>
-        Tento víkend jsme si všichni moc a moc užili. <br><br>
-        Robot, 13. 12. 2020</p>
+        <h2>Spinosaurská online schůzka 21. 1. 2021</h2>
+        <div class=\"two-column\">
+            <div class=\"two-column-item\">
+            <h3>Docházka</h3>
+            <strong>Nik</strong> — včas,<br>
+            <strong>Jose</strong> — 1 minuta zpoždění,<br>
+            <strong>Robot</strong> — 7 minut zpoždění,<br>
+            <strong>Vítek</strong> — 30 minut zpoždění 🙄
+            </div>
+            <div class=\"two-column-item\">
+                <h3>Plán</h3>
+                <ol>
+                    <li><strong>Slézání se a zahájení 🏁 </strong>— 15 min</li>
+                    <li><strong>Meditace 🧘🏻</strong> s @Nik — 15 min</li>
+                    <li><strong>Přednáška o automatech 🎰</strong> od @José — 45 min</li>
+                    <li><strong>Družinový projekt 📈</strong> — 30 min</li>
+                    <li><strong>Zakončení 🏁</strong> — 15 min</li>
+                </ol>
+            </div>
+        </div>
+        <h3>Zápis</h3>
+        <p>Dle plánu jsme se patnáct minut slézali. Pak nám Robot nepřipomněl, abychom zahájili schůzku. Začali jsme tedy bez zahájení pod vedením Nika (tedy mě) provádět jednoduché cvičení, zaměřené na všímání si vlastních pocitů.</p>
+        <p>José už chtěl začít svojí přednášku o&nbsp;automatech, když v&nbsp;tom se objevil Vítek 🙄. Protože měl pro svůj pozdní příchod hodně trapnou výmluvu, pustili jsme si <a href=\"https://www.youtube.com/watch?v=MMl0Q_uPRu8\" target=\"_blank\">výukové video</a>.</p>
+        <p>Po něm Jose konečně začal se svou přednáškou o&nbsp;automatech 🎰. Po třičtvrtě hodině, to pochopil i&nbsp;Nik. Na otázku: „K čemu to je?“, odpověděl Jose s&nbsp;Nikovou pomocí krátkým improvizovaným úvodem&nbsp;do regulárních výrazů.</p>
+        <p>Minule jsme se rozhodli, že bychom chtěli mít nějaký dlouhodobý družinový projekt (jako <a href=\"http://kaloni.skauting.cz\" target=\"_blank\">Kaloni</a>). Dohodli jsme se, že s&nbsp;družinou natočíme film. Jali jsme se tedy vymýšlet náměty. Zde jsou:
+            <ul class=\"columns\">
+                <li>Další dílo Cimrmana</li>
+                <li>Něco mysteriozního</li>
+                <li>Rocky III</li>
+                <li>Něco pod mořem — Jules Verne 2000</li>
+                <li>Milostný n-úhelník</li>
+                <li>Radiace</li>
+                <li>Zombie apokaliptický konec světa</li>
+                <li>Cesta Spinosaura na&nbsp;měsíc</li>
+                <li>Jak spinosauři přechází o&nbsp;iluze</li>
+                <li>Zrození spinosaurua</li>
+                <li>Legenda o&nbsp;Spinosaurovi</li>
+                <li>Proč zrovna spinosaurus</li>
+                <li>Zrození Nika, zrození legendy</li>
+                <li>Love-story Josého a&nbsp;Wendy</li>
+                <li>Jak je důležité mýtí Nika</li>
+                <li>Válečný film</li>
+                <li>Historie naší družiny nebo oddíliu</li>
+                <li>Historie skautingu</li>
+                <li>Jak přišel na&nbsp;svět Svojsík</li>
+                <li>Svojsík vs. B.-P. — rap battle</li>
+                <li>Jak Spinosauři zničili prsten moci</li>
+                <li>Tři oříšky pro Spinosaura</li>
+                <li>Jak jsem potkal tvého Spinosaura</li>
+                <li>Obléhání Spinosauropol</li>
+                <li>Báj o&nbsp;Spinosaurovi</li>
+                <li>Spinosaurova úžasná pouť internetama</li>
+                <li>Španělsky s&nbsp;Vítkem za 5&nbsp;let</li>
+                <li>Jak se Mexičan naučil česky</li>
+                <li>Neviditelná žena</li>
+                <li>Kuchařka — Vaříme se&nbsp;Spinosaurem</li>
+                <li>Vaření masaly ze Spinosaura</li>
+                <li>Únos Ssaura</li>
+                <li>Detektivka</li>
+            </ul>
+        </p>
+        <p>Nakonec Nik připomněl Robotovi, aby nám připomněl, abychom nezapomněli zakončit schůzku. Zakončili jsme schůzku družinovým pokřikem a&nbsp;bez Josého, který je trapný, jsme šli hrát <a href=\"https://scrible.io\" target=\"_blank\">scrible.io</a> a&nbsp;pak <a href=\"https://krunker.io\" target=\"_blank\">krunker.io</a>.</p>
+        <p>Příští schůzku má na&nbsp;starosti Robot a&nbsp;bude mít přednášku o&nbsp;pamněti.</p>
+        <p>Nik, 22. 1. 2021</p>
+
         <h2>Spinosaurská online schůzka 7. 1. 2021</h2>
         <p>Docházka: Nik, Robot, Vítek, José (tedy všichni)</p>
         <p style='float:left; width:50%'>Čekajíc na Vítka, vyprávěli jsme si o Vánocích.
@@ -21,7 +80,15 @@ $pages = [
         Na závěr jsme si zahráli krunker.io. Robot střílí zcela náhodně, ale vždy trefí. Nik míří přesně, ale nikdy netrefí.
         Zapomněli jsme zakončit. Ajaj. <br><br>
         Nik, 7. 1. 2021</p>
-        <img style='height:800px; float:right; margin:20px;' src='/images/pages/schuzka7-1.png'",
+        <img style='height:800px; float:right; margin:20px;' src='/images/pages/schuzka7-1.png'
+
+        <h2>Spinosaurská akce na Báře 4.‒6. 12. 2020</h2>
+        <p>V pátek jsme se sešli na Báře. Nejprve dorazil Robot a José, kteří společně vymysleli jídelníček. Poté, co přijel Vítek, došli nakoupit a vyžebrali si dvě desetikoruny do nákupních vozíčků (jednu od Martina a druhou od Ondry). Při vaření večeře, ke které bylo lečo, se dostavil Nik a Strom. Po výborné večeři jsme si pouštěli Záskok od J8ry Cimrmana. <br>
+        Druhý den jsme vstali poněkud později, ke snídani byla již celkem povedená míchaná vajíčka. Následně jsme poslouchali přednášku z Miquiku. Po jejím konci jsme se plni nových vědomostí běželi proběhnout a rychle jsme si pospíšili na další, tentokrát o sociálních sítích a jejich vlivu na společnost. Během této doby se dostavil i Kipi a naše parta byla již téměř celá. Po setmění jsme se pustili do vaření cibulačky a bramborových knedlíků k večeři, na které jsme si opět velmi pochutnali. <br>
+        Ráno nás bohužel opustili Kipi a Vítek, ale my jsme pokračovali i bez nich. Vymysleli jsme program na oddílovou výpravu následující víkend. <br>
+        Tento víkend jsme si všichni moc a moc užili. <br><br>
+        Robot, 13. 12. 2020</p>
+        ",
         "color" => "green",
     ],
     [
@@ -41,7 +108,7 @@ $pages = [
         <p>Postup: Bílé cibule nakrájíme na kolečka a na másle je osmažíme do změknutí a zvláčnění. Do hrnce přidáme panák vody (nebo bílého vína), polévkovou lžíci cukru a 2 bobkové listy. Dusíme pod pokličkou asi pět minut. <br>
         V druhém hrnci smažíme na másle červenou cibuli nakrájenou na kolečka, po změknutí ji za smažení zasypeme moukou a vytvoříme hustou hmotu. Bílou cibuli též zasypeme moukou a tyto dvě husté hmoty sesypeme do většího hrnce a zalijeme horkou vodou. Vodu osolíme a opepříme. <br>
         Nakrájenou bagetu zapečeme v troubě s nastrouhaným sýrem a kousky másla, okořeníme ji dle chuti do křupava. Podáváme cibulačku se strouhaným sýrem a křupavou teplou zapečenou bagetkou.</p>
-        
+
         <h2>Spinosaurské ratatouille</h2>
         <p>Potřeby: 1 lilek, 2 cukety, 2 rajčata, 2 červené papriky, 1 plechovka loupaných rajčat, 4 stroužky česneku, olivový olej, tymián, rozmarýn, 2 cibule, pepř, sůl, bílé pečivo</p>
         <p>Doba přípravy: 90 minut</p>
