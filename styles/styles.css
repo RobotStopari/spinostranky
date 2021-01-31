@@ -29,7 +29,7 @@
     font-weight: 500;
     font-size: 20px;
 }
-.link {
+.link, a {
     color: rgb(186,74,20);
 }
 .page-heading, h1 {
@@ -148,6 +148,40 @@ body {
     max-width: 700px;
 }
 
+.page strong {
+    font-weight: bold;
+}
+
+.page h3 {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 1em 0 0.2em;
+}
+
+.page ul, .page ol {
+    padding-left: 1em;
+}
+
+.page p {
+    margin: 0 0 1em;
+}
+
+.two-column {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.two-column-item {
+    width: calc(50% - 8px)
+}
+
+.columns {
+    column-count: 3;
+    column-gap: 8px;
+    list-style: none;
+}
+
 @media only screen and (max-width: 850px) {
     .logo {
         display: none;
@@ -177,9 +211,6 @@ body {
         width: 50%;
         margin: 30px 0px;
     }
-    .page {
-        text-align: center;
-    }
     article {
         text-align: left;
     }
@@ -204,6 +235,10 @@ body {
         margin-top: 10px;
         margin-bottom: 15px;
     }
+
+    .columns {
+        column-count: 2;
+    }
 }
 
 @media only screen and (max-width: 350px) {
@@ -222,5 +257,11 @@ body {
     }
     .quote-text {
         font-size: 1.3em;
+    }
+    .two-column-item {
+        width: 100%;
+    }
+    .columns {
+        column-count: 1;
     }
 }
