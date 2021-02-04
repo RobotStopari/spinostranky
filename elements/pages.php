@@ -3,7 +3,7 @@ $pages = [
     [
         "heading" => "Naše kronika",
         "url" => "/inspiruj-se/nase-kronika",
-        "content" => "<p>Zde naleznete naši kroniku - všechny zápisy a zážitky z našich akcí a výprav. Můžete se zde inspirovat, nebo si jen pročíst, co lze všechno zažít v družinovém životě.</p><p>Tuto stránku pro vás ještě připravujeme.</p>
+        "content" => "<p>Zde naleznete naši kroniku - všechny zápisy a zážitky z našich akcí a výprav. Můžete se zde inspirovat, nebo si jen pročíst, co lze všechno zažít v družinovém životě.</p>
         <h2>Spinosaurská online schůzka 21. 1. 2021</h2>
         <div class=\"two-column\">
             <div class=\"two-column-item\">
@@ -80,7 +80,7 @@ $pages = [
         Na závěr jsme si zahráli krunker.io. Robot střílí zcela náhodně, ale vždy trefí. Nik míří přesně, ale nikdy netrefí.
         Zapomněli jsme zakončit. Ajaj. <br><br>
         Nik, 7. 1. 2021</p>
-        <img style='height:800px; float:right; margin:20px;' src='/images/pages/schuzka7-1.png'
+        <img style='height:800px; float:right; margin:20px;' src='/images/pages/schuzka7-1.png'>
 
         <h2>Spinosaurská akce na Báře 4.‒6. 12. 2020</h2>
         <p>V pátek jsme se sešli na Báře. Nejprve dorazil Robot a José, kteří společně vymysleli jídelníček. Poté, co přijel Vítek, došli nakoupit a vyžebrali si dvě desetikoruny do nákupních vozíčků (jednu od Martina a druhou od Ondry). Při vaření večeře, ke které bylo lečo, se dostavil Nik a Strom. Po výborné večeři jsme si pouštěli Záskok od J8ry Cimrmana. <br>
