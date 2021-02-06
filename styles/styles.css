@@ -148,43 +148,6 @@ body {
     max-width: 700px;
 }
 
-.page strong {
-    font-weight: bold;
-}
-
-.page h3 {
-    font-size: 24px;
-    font-weight: bold;
-    margin: 1em 0 0.2em;
-}
-
-.page ul, .page ol {
-    padding-left: 1em;
-}
-
-.page p {
-    margin: 0 0 1em;
-}
-
-.two-column {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-}
-
-.two-column-item {
-    width: calc(50% - 8px)
-}
-
-.columns {
-    column-count: 3;
-    column-gap: 8px;
-    list-style: none;
-}
-
-h2 {
-    margin-top: 20px;
-}
 
 @media only screen and (max-width: 850px) {
     .logo {
