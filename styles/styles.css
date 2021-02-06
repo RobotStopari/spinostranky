@@ -213,7 +213,9 @@ h2 {
     .page-img {
         float: none;
         width: 50%;
-        margin: 30px 0px;
+        margin: 30px auto;
+        display: flex;
+        justify-content: center;
     }
     article {
         text-align: left;
