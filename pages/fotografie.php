@@ -6,7 +6,7 @@
     ?>
     <div class="page">
         <div class="page-float">
-           <h1 class="page-heading">Naše fotografie</h1>
+           <h1>Naše fotografie</h1>
            <div class="gallery">
 
                 <?php $title = "Příprava tábora"; $img = "../images/gallery/PripravaTabora.JPG"; $style = "object-position: 50% 10%"; $link = "https://photos.app.goo.gl/aXEQmUPJ1YwQMyN1A"; include "elements/gallery.php"; ?>

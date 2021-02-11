@@ -1,111 +1,123 @@
-.link {
-    text-decoration: none;
-    display: block;
-    width: 230px;
-    height: 150px;
-    text-align: center;
-    color: white;
-    font-family: skautbold;
-    padding-top: 80px;
-    transition: 200ms;
-    font-size: 30px;
-    opacity: 80%;
-}
-
-.window {
-    list-style-type: none;
-    position: relative;
-}
-
-.list {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-}
-
-svg {
-    position: absolute;
-    height: 101%;
-    width: 100%;
-    fill: white;
-    top: -2px;
-    left: 0;
-}
-
-.link:hover {
-    opacity: 100%;
-}
-
-.green {
-    background-color: #48651Dea;
-}
-
-.brown {
-    background-color: #8D5F0Fea;
-}
-
-.blue {
-    background-color: #255b9eea;
-}
-
-p {
-    margin-top: 5px;
-}
-
-h2 {
-    font-family: skautbold;
-    font-size: 30px;
-    font-weight: bolder;
-    margin: 25px 0px 10px;
-    text-align: center;
-}
-
-.page strong {
-    font-weight: bold;
-}
-
-.page h3 {
-    font-size: 24px;
-    font-weight: bold;
-    margin: 1em 0 0.2em;
-}
-
-.page ul,
-.page ol {
-    padding-left: 1em;
-}
-
-.page p {
-    margin: 0 0 1em;
-}
-
-.two-column {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-}
-
-.two-column-item {
-    width: calc(50% - 8px)
-}
-
-.columns {
-    column-count: 3;
-    column-gap: 8px;
-    list-style: none;
-}
-
-@media only screen and (max-width: 350px) {
-    h2 {
-        font-size: 18px;
-    }
-}
-
-@media only screen and (max-width: 270px) {
     .link {
-        width: 150px;
-        height: 100px;
-        padding-top: 50px;
-        font-size: 20px;
+        text-decoration: none;
+        display: block;
+        width: 230px;
+        height: 150px;
+        text-align: center;
+        color: white;
+        font-family: skautbold;
+        padding-top: 80px;
+        transition: 200ms;
+        font-size: 30px;
+        opacity: 80%;
     }
-}
+    
+    .window {
+        list-style-type: none;
+        position: relative;
+    }
+    
+    .list {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    
+    svg {
+        position: absolute;
+        height: 101%;
+        width: 100%;
+        fill: white;
+        top: -2px;
+        left: 0;
+    }
+    
+    .link:hover {
+        opacity: 100%;
+    }
+    
+    .green {
+        background-color: #48651Dea;
+    }
+    
+    .brown {
+        background-color: #8D5F0Fea;
+    }
+    
+    .blue {
+        background-color: #255b9eea;
+    }
+    
+    p {
+        margin-top: 5px;
+    }
+    
+    h2 {
+        font-family: skautbold;
+        font-size: 30px;
+        font-weight: bolder;
+        margin: 25px 0px 10px;
+        text-align: center;
+    }
+    
+    .page strong {
+        font-weight: bold;
+    }
+    
+    .page h3 {
+        font-size: 24px;
+        font-weight: bold;
+        margin: 1em 0 0.2em;
+    }
+    
+    .page ul,
+    .page ol {
+        padding-left: 1em;
+    }
+    
+    .page p {
+        margin: 0 0 1em;
+    }
+    
+    .two-column {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    
+    .two-column-item {
+        width: calc(50% - 8px)
+    }
+    
+    .columns {
+        column-count: 3;
+        column-gap: 8px;
+        list-style: none;
+    }
+    
+    @media only screen and (max-width: 850px) {
+        .columns {
+            column-count: 2;
+        }
+    }
+    
+    @media only screen and (max-width: 350px) {
+        h2 {
+            font-size: 18px;
+        }
+        .columns {
+            column-count: 1;
+        }
+        .two-column-item {
+            width: 100%;
+        }
+    }
+    
+    @media only screen and (max-width: 270px) {
+        .link {
+            width: 150px;
+            height: 100px;
+            padding-top: 50px;
+            font-size: 20px;
+        }
+    }

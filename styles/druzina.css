@@ -63,6 +63,11 @@
     background-color: #255b9eea;
 }
 
+.clenove-text {
+    margin: 10px 0;
+    max-width: 700px;
+}
+
 .figure-svg:hover~.figure-back {
     height: 360px;
 }

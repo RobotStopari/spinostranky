@@ -1,3 +1,5 @@
+/* ---- fonts ---- */
+
 @font-face {
     font-family: 'themix';
     src: url('https://cdn.skauting.cz/fonts/TheMix_LT_400.eot');
@@ -16,6 +18,9 @@
     font-style: normal;
 }
 
+
+/* ---- styles for tags ---- */
+
 * {
     padding: 0px;
     margin: 0px;
@@ -24,12 +29,15 @@
     font-size: 20px;
 }
 
-.link,
+body {
+    background-image: url(../images/main/tapeta.png);
+    background-size: cover;
+}
+
 a {
     color: rgb(186, 74, 20);
 }
 
-.page-heading,
 h1 {
     margin-bottom: 20px;
     font-size: 2em;
@@ -37,10 +45,8 @@ h1 {
     border-bottom: solid 1px black;
 }
 
-body {
-    background-image: url(../images/main/tapeta.png);
-    background-size: cover;
-}
+
+/* ---- styles for navigation bar ---- */
 
 .head {
     background-color: #ffd800ff;
@@ -53,17 +59,17 @@ body {
 }
 
 .logo {
-    float: right;
     margin: 10px 30px;
     width: 100px;
 }
 
 .navbar {
+    float: right;
     display: flex;
     list-style-type: none;
     height: 100px;
     align-items: center;
-    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .navbar-item {
@@ -78,13 +84,16 @@ body {
     box-sizing: border-box;
     border-radius: 10px 15px 8px 17px;
     font-family: skautbold;
-    transition: background-color 300ms, color 300ms;
+    transition: 300ms;
 }
 
 .navbar-link:hover {
     background-color: rgb(186, 74, 20);
     color: white;
 }
+
+
+/* ---- styles for page ---- */
 
 .page-float {
     max-width: 900px;
@@ -93,14 +102,15 @@ body {
     background-color: rgb(255, 255, 255);
     border-radius: 20px;
     margin-top: 40px;
-    margin-bottom: 40px;
-    overflow: hidden;
 }
 
-.text {
+.info {
     margin: 2px 0px 0px 15px;
     font-size: 1.1em;
 }
+
+
+/* ---- styles for main logo ---- */
 
 .page-img {
     float: right;
@@ -124,6 +134,9 @@ body {
     text-align: center;
 }
 
+
+/* ---- styles for quote on main page ---- */
+
 .quote {
     background-color: rgba(255, 255, 0, 0.295);
     width: 300px;
@@ -145,25 +158,11 @@ body {
     font-size: 1.7em;
 }
 
-.rep {
-    object-position: top;
-}
 
-.gallery-link {
-    text-decoration: none;
-    font-weight: bold;
-    color: rgb(186, 74, 20);
-}
-
-.gallery-text {
-    margin: 10px 0;
-    max-width: 700px;
-}
+/* ---- styles for smaller displays ---- */
 
 @media only screen and (max-width: 850px) {
-    .logo {
-        display: none;
-    }
+    /* ---- styles for tags ---- */
     * {
         font-size: 16px;
     }
@@ -175,38 +174,30 @@ body {
         margin-bottom: 0px;
         font-size: 1.8em;
     }
+    /* ---- styles for navigation bar ---- */
+    .logo {
+        display: none;
+    }
+    .head {
+        width: 100%;
+    }
     .navbar {
         justify-content: center;
         height: auto;
         flex-wrap: wrap;
-        margin-left: 0px;
+        margin-right: 0px;
+        float: none;
     }
     .navbar-item {
         margin: 20px 8px;
     }
+    /* ---- styles for main logo ---- */
     .page-img {
         float: none;
         width: 50%;
         margin: 30px auto;
         display: flex;
         justify-content: center;
-    }
-    article {
-        text-align: left;
-    }
-    .head {
-        width: 100%;
-    }
-    .page-float {
-        padding: 0 20px;
-    }
-    .text {
-        margin: 0px;
-    }
-    .quote {
-        width: 250px;
-        margin: auto;
-        margin-top: 40px;
     }
     .birthday {
         float: none;
@@ -215,18 +206,31 @@ body {
         margin-top: 10px;
         margin-bottom: 15px;
     }
-    .columns {
-        column-count: 2;
+    /* ---- styles for page ---- */
+    .page-float {
+        padding: 0 20px;
+    }
+    .info {
+        margin: 0px;
+    }
+    /* ---- styles for quote on main page ---- */
+    .quote {
+        width: 250px;
+        margin: auto;
+        margin-top: 40px;
     }
 }
 
 @media only screen and (max-width: 350px) {
+    /* ---- styles for tags ---- */
     * {
         font-size: 15px;
     }
+    /* ---- styles for page ---- */
     .page-float {
         padding: 0 10px;
     }
+    /* ---- styles for quote on main page ---- */
     .quote {
         width: 80%;
         padding: 5px;
@@ -236,11 +240,5 @@ body {
     }
     .quote-text {
         font-size: 1.3em;
-    }
-    .two-column-item {
-        width: 100%;
-    }
-    .columns {
-        column-count: 1;
     }
 }
