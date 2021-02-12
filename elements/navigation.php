@@ -9,3 +9,5 @@
             </ul>
         </div>
     </nav>
+    <div class="page">
+        <main class="page-float">
