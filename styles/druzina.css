@@ -48,7 +48,7 @@
     z-index: 1;
     background-color: #255b9eea;
     bottom: 0;
-    transition: 400ms ease-in-out;
+    transition: 400ms ease-out;
 }
 
 .green {
