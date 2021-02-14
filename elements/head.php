@@ -11,3 +11,4 @@ echo '  <!DOCTYPE html>
                 ' . $addToHead . '
             </head>
             <body>';
+            

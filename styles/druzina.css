@@ -4,6 +4,7 @@
     width: 100%;
     height: 100%;
 }
+
 .figure-svg {
     position: absolute;
     width: 100%;
@@ -13,14 +14,17 @@
     z-index: 3;
     cursor: pointer;
 }
+
 .figure {
     position: relative;
     width: 270px;
     height: 360px;
 }
+
 .custom-img-pos {
     object-position: 50% -15%;
 }
+
 .figure-text {
     position: relative;
     text-align: center;
@@ -29,13 +33,16 @@
     color: white;
     opacity: 0%;
     transition: 500ms;
-    padding: 20px;;
+    padding: 20px;
+    ;
     z-index: 2;
 }
-.figure-svg:hover ~ .figure-text{
+
+.figure-svg:hover~.figure-text {
     opacity: 100%;
 }
-.figure-back{
+
+.figure-back {
     width: 270px;
     height: 0px;
     position: absolute;
@@ -44,16 +51,20 @@
     bottom: 0;
     transition: 400ms ease-in-out;
 }
+
 .green {
     background-color: #48651Dea;
 }
+
 .brown {
     background-color: #8D5F0Fea;
 }
+
 .blue {
     background-color: #255b9eea;
 }
-.figure-svg:hover ~ .figure-back{
+
+.figure-svg:hover~.figure-back {
     height: 360px;
 }
 
@@ -63,9 +74,11 @@
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
+
 .table-element {
     margin: 25px;
 }
+
 .element-heading {
     text-align: center;
     font-size: 1.5em;
@@ -96,10 +109,10 @@
         width: 300px;
         height: 400px;
     }
-    .figure-back{
+    .figure-back {
         width: 300px;
     }
-    .figure-svg:hover ~ .figure-back{
+    .figure-svg:hover~.figure-back {
         height: 400px;
     }
     .figure-text {
@@ -118,10 +131,10 @@
         border: none;
         width: auto;
     }
-    .figure-back{
+    .figure-back {
         width: 150px;
     }
-    .figure-svg:hover ~ .figure-back{
+    .figure-svg:hover~.figure-back {
         height: 200px;
     }
     .figure-text {

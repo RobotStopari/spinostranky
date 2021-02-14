@@ -1,9 +1,9 @@
-
 .gallery {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
+
 .window {
     width: 200px;
     height: auto;
@@ -11,6 +11,7 @@
     border-radius: 20px;
     position: relative;
 }
+
 .window-heading {
     text-align: center;
     margin-bottom: 5px;
@@ -18,6 +19,7 @@
     font-size: 1em;
     margin: auto;
 }
+
 .window-img {
     width: 200px;
     height: 150px;
@@ -29,6 +31,7 @@
     opacity: 80%;
     border-radius: 4px;
 }
+
 .window-img:hover {
     opacity: 100%;
 }

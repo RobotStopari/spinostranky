@@ -31,4 +31,3 @@ switch($_SERVER["REQUEST_URI"]) {
         }
         break;
 }
-
