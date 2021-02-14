@@ -34,7 +34,10 @@
     opacity: 0%;
     transition: 500ms;
     padding: 20px;
+<<<<<<< HEAD
     ;
+=======
+>>>>>>> b929e002429aaab63539313d2e1f3a9d2b334b2c
     z-index: 2;
 }
 
@@ -49,7 +52,7 @@
     z-index: 1;
     background-color: #255b9eea;
     bottom: 0;
-    transition: 400ms ease-in-out;
+    transition: 400ms ease-out;
 }
 
 .green {
@@ -64,6 +67,14 @@
     background-color: #255b9eea;
 }
 
+<<<<<<< HEAD
+=======
+.clenove-text {
+    margin: 10px 0;
+    max-width: 700px;
+}
+
+>>>>>>> b929e002429aaab63539313d2e1f3a9d2b334b2c
 .figure-svg:hover~.figure-back {
     height: 360px;
 }
