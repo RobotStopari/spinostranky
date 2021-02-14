@@ -95,15 +95,12 @@ h2 {
     list-style: none;
 }
 
-<<<<<<< HEAD
-=======
 @media only screen and (max-width: 850px) {
     .columns {
         column-count: 2;
     }
 }
 
->>>>>>> b929e002429aaab63539313d2e1f3a9d2b334b2c
 @media only screen and (max-width: 350px) {
     h2 {
         font-size: 18px;
