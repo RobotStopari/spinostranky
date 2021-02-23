@@ -142,23 +142,30 @@ document.addEventListener('keydown', function(e) {
 // left won't do anything, and pressing right while moving left
 // shouldn't let you collide with your own body)
 
+const key = e.which
+
+if ([37, 38, 39, 40].indexOf(key) !== -1) {
+  console.log("keydown")
+  e.preventDefault()
+}
+
 // left arrow key
-if (e.which === 37 && snake.dx === 0) {
+if (key === 37 && snake.dx === 0) {
     snake.dx = -grid;
     snake.dy = 0;
 }
 // up arrow key
-else if (e.which === 38 && snake.dy === 0) {
+else if (key === 38 && snake.dy === 0) {
     snake.dy = -grid;
     snake.dx = 0;
 }
 // right arrow key
-else if (e.which === 39 && snake.dx === 0) {
+else if (key === 39 && snake.dx === 0) {
     snake.dx = grid;
     snake.dy = 0;
 }
 // down arrow key
-else if (e.which === 40 && snake.dy === 0) {
+else if (key === 40 && snake.dy === 0) {
     snake.dy = grid;
     snake.dx = 0;
 }
