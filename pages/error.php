@@ -11,6 +11,11 @@
             display: inline;
             border: 2px black solid;
         }
+        #Score {
+            font-size: 2em;
+            text-align: center;
+            margin-top: 10px;
+        }
         @media only screen and (max-width: 530px) {
             canvas {
                 display: none;
@@ -23,6 +28,7 @@
 
 <h1>Tato stránka nebyla nalezena</h1>
 <p class="text">Vraťte se prosím na naši <a href="/">domovskou stránku</a>.</p>
+<h3 id="Score">0</h3>
 <div class="canvas-cont"><canvas width="400" height="400" id="game"></canvas></div>
 <script>
 var canvas = document.getElementById('game');
@@ -110,6 +116,7 @@ snake.cells.forEach(function(cell, index) {
     // snake ate apple
     if (cell.x === apple.x && cell.y === apple.y) {
     snake.maxCells++;
+    document.getElementById("Score").innerHTML = snake.cells.length - 3;
 
     // canvas is 400x400 which is 25x25 grids
     apple.x = getRandomInt(0, 25) * grid;
