@@ -14,5 +14,9 @@ foreach($people as $person) {
 }
 
 if($birthday == false) {
-    echo '<img src="/images/main/LogoFull.png" alt="naše logo" width="25%" class="page-img">';
+    if(date('H:i') == "16:00") {
+        echo '<img src="/images/main/nikTajny.jpg" alt="Toto je Nik" width="25%" class="page-img">';
+    } else {
+        echo '<img src="/images/main/LogoFull.png" alt="naše logo" width="25%" class="page-img">';
+    }
 }
