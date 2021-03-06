@@ -1,7 +1,7 @@
 <?php
 $pages = [
     [
-        "heading" => "Naše kronika",
+        "heading" => "Kronika",
         "url" => "/inspiruj-se/nase-kronika",
         "active" => True,
         "content" => "<p>Zde naleznete naši kroniku - všechny zápisy a zážitky z našich akcí a výprav. Můžete se zde inspirovat, nebo si jen pročíst, co lze všechno zažít v družinovém životě.</p>
@@ -92,14 +92,14 @@ $pages = [
         "color" => "green",
     ],
     [
-        "heading" => "Náš rituálník",
+        "heading" => "Rituálník",
         "url" => "/inspiruj-se/nas-ritualnik",
         "active" => False,
         "content" => "<p>Zde se brzy dozvíte vše o našich družinových rituálech, zvycích a tradicích.</p>",
         "color" => "blue",
     ],
     [
-        "heading" => "Naše kuchařka",
+        "heading" => "Kuchařka",
         "url" => "/inspiruj-se/nase-kucharka",
         "active" => True,
         "content" => "<p>Nemáte nápady na to, co vařit na vašich akcích? Jsou vaše obědy stále stejné?</p><p>Podívejte se do naši kuchařky! Všechna tato jídla jsme několikrát otestovali a vyladili do posledních detailů a jsou tak jednoduchá, že je zvládnete uvařit všichni.
