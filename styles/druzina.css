@@ -140,16 +140,16 @@
     /* ---- styles for figures ---- */
     .figure {
         position: relative;
-        width: 150px;
-        height: 200px;
+        width: 230px;
+        height: 300px;
     }
     .figure-text {
-        font-size: 0.9em;
+        font-size: 1em;
     }
     .figure-back {
-        width: 150px;
+        width: 230px;
     }
     .figure-svg:hover~.figure-back {
-        height: 200px;
+        height: 300px;
     }
 }

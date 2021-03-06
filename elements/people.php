@@ -30,7 +30,7 @@ $people = [
         "img" => "vodik.jpg",
         "color" => "blue",
         "date" => "15-02",
-        "content" => "Toto je Vodík. <br>Je oddílovým správcem nářadí.",
+        "content" => "Toto je Vodík. <br>Je oddílovým správcem nářadí. Hraje skvěle na kytaru. Skautuje již hodně dlouho, rád pomůže s jakoukoli činností, ve které se vyzná. Je s ním sranda a vymýšlí často hodně kreativní nápady.",
     ], [
         "name" => "Špína",
         "img" => "spina.jpg",
@@ -42,7 +42,7 @@ $people = [
         "img" => "ondra.jpg",
         "color" => "green",
         "date" => "28-12",
-        "content" => "Toto je Ondra.",
+        "content" => "Toto je Ondra. <br>Je zástupce vůdce oddílu a hlavním vedoucím vlčat. Pochází z velké skautské rodiny, je s ním vždy sranda. Studuje architekturu a je instruktorem plavání. Rád jde do každé srandy a výzvy.",
     ], [
         "name" => "Doubravka",
         "img" => "douba.jpg",
@@ -54,25 +54,25 @@ $people = [
         "img" => "majda.jpg",
         "color" => "brown",
         "date" => "30-07",
-        "content" => "Toto je Majda.",
+        "content" => "Toto je Majda. <br>Skautkou je už hodně dlouho, pochází ze skautské rodiny. Studuje všeobecné gymnázium, ráda kreslí na papíře i na počítači. Baví ji trávit čas s kamarády a pustí se do každé srandy.",
     ], [
         "name" => "Johanka",
         "img" => "johanka.jpg",
         "color" => "green",
         "date" => "05-10",
-        "content" => "Toto je Johanka.",
+        "content" => "Toto je Johanka. <br>Pochází z obrovské skautské rodiny. Studuje výrobu hraček a baví ji pečení, vaření a jakékoli umělecké tvoření. Ráda každému pomůže.",
     ], [
         "name" => "Jenda",
         "img" => "jenda.jpg",
         "color" => "blue",
         "date" => "11-11",
-        "content" => "Toto je Jenda.",
+        "content" => "Toto je Jenda. <br>Opět další človíček z obrovské skautské rodiny. Miluje pohyb a často jen rád sedí a poslouchá. Má rád čtení a povídání. Je s ním kopec srandy, rád pomáhá všem, kteří to potřebují.",
     ], [
         "name" => "Ota",
         "img" => "ota.jpg",
         "color" => "brown",
         "date" => "27-08",
-        "content" => "Toto je Ota.",
+        "content" => "Toto je Ota. <br>Je nejstarším ze všech Spinosaurů. Píše články do Hospodářských novin, kde testuje technologie a elektroniku. Jeho zálibou jsou moderní technologie, ale i příroda je pro každou srandu.",
     ],
 ];
 
