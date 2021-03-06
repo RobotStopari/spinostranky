@@ -92,6 +92,52 @@ h1 {
     color: white;
 }
 
+.navbar-item-drop {
+    position: relative;
+}
+
+.drop {
+    position: absolute;
+    top: 30px;
+    padding-top: 15px;
+    border-radius: 100px 100px;
+    z-index: 10;
+}
+
+.navbar-item-in-drop {
+    display: none;
+    position: relative;
+    border-left: rgb(186, 74, 20) solid 6px;
+    border-bottom: rgb(186, 74, 20) solid 1px;
+}
+
+.navbar-link-in-drop {
+    padding: 10px 15px;
+    text-decoration: none;
+    color: rgb(186, 74, 20);
+    font-size: 1.4em;
+    display: block;
+    box-sizing: border-box;
+    font-family: skautbold;
+    background-color: #ffd800ff;
+    transition: 300ms;
+}
+
+.navbar-item-drop:hover .navbar-item-in-drop {
+    display: block;
+}
+
+.navbar-link-in-drop:hover {
+    background-color: rgb(186, 74, 20);
+    color: white;
+}
+
+.external-icon {
+    width: 12%;
+    margin: auto;
+    margin-left: 5px;
+}
+
 
 /* ---- styles for page ---- */
 

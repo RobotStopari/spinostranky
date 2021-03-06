@@ -1,7 +1,6 @@
 <?php
 
 $actual;
-$findPage = false;
 
 include "elements/pages.php";
 
@@ -12,21 +11,14 @@ switch($_SERVER["REQUEST_URI"]) {
     case "/clenove":
         include "pages/druzina.php";
         break;
-    case "/inspiruj-se":
-        include "pages/inspirace.php";
-        break;
     case "/nase-fotky":
         include "pages/fotografie.php";
         break;
     default:
-        foreach($pages as $page) {
-            if(array_search($_SERVER["REQUEST_URI"], $page)) {
-                $actual = $page;
-                include "elements/page.php";
-                $findPage = true;
-            }
-        }
-        if(!$findPage) {
+        if(is_int(array_search($_SERVER["REQUEST_URI"], array_column($pages, 'url')))) {
+            $actual = $pages[array_search($_SERVER["REQUEST_URI"], array_column($pages, 'url'))];
+            include "elements/page.php";
+        } else {
             include "pages/error.php";
         }
         break;
