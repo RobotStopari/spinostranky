@@ -29,6 +29,12 @@
     opacity: 100%;
 }
 
+.external-icon {
+    width: 10%;
+    margin: auto;
+    margin-left: 10px;
+}
+
 .figure-svg {
     position: absolute;
     height: 101%;

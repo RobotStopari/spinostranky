@@ -157,6 +157,7 @@ $pages = [
         "heading" => "Mapa",
         "url" => "https://www.google.com/maps/d/u/0/edit?mid=1GE20-eIR3nGmsU_Ucel7hn0lCuj4ftAm&usp=sharing",
         "active" => True,
+        "external" => True,
         "content" => "<p>Byli jsme již na hodně zajímavých místech. Na této mapě uvidíte všechna místa, kde proběhly Spinosaurské výpravy či schůzky.</p><p>Mapu pro vás připravujeme.</p>",
         "color" => "green",
         "target" => "target=\"_blank\"",

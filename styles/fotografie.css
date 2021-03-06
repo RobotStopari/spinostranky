@@ -38,6 +38,12 @@
     opacity: 100%;
 }
 
+.external-icon {
+    width: 10%;
+    display: block;
+    margin: 3px auto 2px;
+}
+
 
 /* ---- styles for smaller displays ---- */
 
