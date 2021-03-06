@@ -13,7 +13,12 @@
 </article>
 <div class="quote">
     <h2 class="quote-heading">Pokřik:</h2>
-    <p class="quote-text">ROOOAAARRR!!!</p>
+    <?php
+    if(date('H:i') == "17:00") {
+        echo '<p class="quote-text">Nik je tajný agent!!!</p>';
+    } else {
+        echo '<p class="quote-text">ROOOAAARRR!!!</p>';
+    }?>
 </div>
 
 <?php include "elements/end.php"; ?>
