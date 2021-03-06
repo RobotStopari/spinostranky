@@ -1,6 +1,6 @@
 <?php 
     include "elements/pages.php";
-    $title = 'Inspiruj se';
+    $title = $actual["heading"];
     $addToHead = '<link rel="stylesheet" href="/styles/inspirace.css">';
     include 'elements/head.php';
     include 'elements/navigation.php';
