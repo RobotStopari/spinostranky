@@ -71,7 +71,7 @@ $pages = [
 
         <h2>Spinosaurská online schůzka 7. 1. 2021</h2>
         <p>Docházka: Nik, Robot, Vítek, José (tedy všichni)</p>
-        <p style='float:left; width:50%'>Čekajíc na Vítka, vyprávěli jsme si o Vánocích.
+        <p>Čekajíc na Vítka, vyprávěli jsme si o Vánocích.
         Robot dostal elektrickou kytaru, Jose slim kroj, Nik (tedy já) lego hasiče a Vítek… nevím.
         S půlhodinovým zpožděním, kdy jsme se konečně sešli všichni, jsme zahájili schůzku zatroubením na roh a družinovým pokřikem.
         Po té měl Nik (tedy já) asi půlhodinovou přednášku o meteorologii, čímž si splnil bod do odborky. Dozvěděli jsme se například co je to tlaková níže (neboli cyklona), nebo jak funguje studená a teplá fronta.
@@ -80,7 +80,6 @@ $pages = [
         Na závěr jsme si zahráli krunker.io. Robot střílí zcela náhodně, ale vždy trefí. Nik míří přesně, ale nikdy netrefí.
         Zapomněli jsme zakončit. Ajaj. <br><br>
         Nik, 7. 1. 2021</p>
-        <img style='height:800px; float:right; margin:20px;' src='/images/pages/schuzka7-1.png'>
 
         <h2>Spinosaurská akce na Báře 4.‒6. 12. 2020</h2>
         <p>V pátek jsme se sešli na Báře. Nejprve dorazil Robot a José, kteří společně vymysleli jídelníček. Poté, co přijel Vítek, došli nakoupit a vyžebrali si dvě desetikoruny do nákupních vozíčků (jednu od Martina a druhou od Ondry). Při vaření večeře, ke které bylo lečo, se dostavil Nik a Strom. Po výborné večeři jsme si pouštěli Záskok od J8ry Cimrmana. <br>
