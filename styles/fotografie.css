@@ -1,3 +1,5 @@
+/* ---- styles for gallery ---- */
+
 .gallery {
     display: flex;
     flex-wrap: wrap;
@@ -35,6 +37,9 @@
 .window-img:hover {
     opacity: 100%;
 }
+
+
+/* ---- styles for smaller displays ---- */
 
 @media only screen and (max-width: 280px) {
     .window {

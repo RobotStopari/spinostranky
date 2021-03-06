@@ -1,3 +1,16 @@
+/* ---- styles for windows ---- */
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.window {
+    list-style-type: none;
+    position: relative;
+}
+
 .link {
     text-decoration: none;
     display: block;
@@ -12,28 +25,17 @@
     opacity: 80%;
 }
 
-.window {
-    list-style-type: none;
-    position: relative;
+.link:hover {
+    opacity: 100%;
 }
 
-.list {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-}
-
-svg {
+.figure-svg {
     position: absolute;
     height: 101%;
     width: 100%;
     fill: white;
     top: -2px;
     left: 0;
-}
-
-.link:hover {
-    opacity: 100%;
 }
 
 .green {
@@ -48,20 +50,15 @@ svg {
     background-color: #255b9eea;
 }
 
-p {
-    margin-top: 5px;
-}
 
-h2 {
+/* ---- styles for pages ---- */
+
+.page h2 {
     font-family: skautbold;
     font-size: 30px;
     font-weight: bolder;
     margin: 25px 0px 10px;
     text-align: center;
-}
-
-.page strong {
-    font-weight: bold;
 }
 
 .page h3 {
@@ -70,13 +67,17 @@ h2 {
     margin: 1em 0 0.2em;
 }
 
-.page ul,
-.page ol {
-    padding-left: 1em;
+.page strong {
+    font-weight: bold;
 }
 
 .page p {
     margin: 0 0 1em;
+}
+
+.page ul,
+.page ol {
+    padding-left: 1em;
 }
 
 .two-column {
@@ -95,6 +96,9 @@ h2 {
     list-style: none;
 }
 
+
+/* ---- styles for smaller displays ---- */
+
 @media only screen and (max-width: 850px) {
     .columns {
         column-count: 2;
@@ -102,14 +106,14 @@ h2 {
 }
 
 @media only screen and (max-width: 350px) {
-    h2 {
+    .page h2 {
         font-size: 18px;
-    }
-    .columns {
-        column-count: 1;
     }
     .two-column-item {
         width: 100%;
+    }
+    .columns {
+        column-count: 1;
     }
 }
 
