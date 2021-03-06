@@ -5,7 +5,7 @@ $people = [
         "name" => "Nik",
         "img" => "nik.jpg",
         "color" => "green",
-        "date" => "",
+        "date" => "05-07",
         "content" => "Toto je Nik. <br> Nik je vůdce našeho oddílu. Skautem je už od roku 2005. Rád čte, leze po stromech nebo hraje na kytaru či akordeon. Byl v krajské radě Junáka. <br>Je naším družinovým knihovNikem.",
     ], [
         "name" => "Vítek",
@@ -35,7 +35,7 @@ $people = [
         "name" => "Špína",
         "img" => "spina.jpg",
         "color" => "brown",
-        "date" => "",
+        "date" => "29-03",
         "content" => "Toto je Špína. <br>Spinosaurus (Trnitý ještěr) je obrovský masožravý dinosaurus, který žije na území dnešní severní Ameriky a v domech členů vedení Stopařů. Je největší dravý tvor, který kdy chodil po souši. <br>ROOÁÁÁRR!!!",
     ], [
         "name" => "Ondra",
@@ -47,7 +47,7 @@ $people = [
         "name" => "Doubravka",
         "img" => "douba.jpg",
         "color" => "blue",
-        "date" => "",
+        "date" => "15-02",
         "content" => "Toto je Doubravka. <br>Skautkou je už skoro 20 let. Studuje všeobecnou sestru. Má ráda dobré jídlo, dobré lidi, pohyb a přírodu. Pár let vedla vlčata. Teď pomáhá novým vedoucím a užívá si, že směr udává Ondra.",
     ], [
         "name" => "Majda",
@@ -71,7 +71,7 @@ $people = [
         "name" => "Ota",
         "img" => "ota.jpg",
         "color" => "brown",
-        "date" => "",
+        "date" => "27-08",
         "content" => "Toto je Ota.",
     ],
 ];
