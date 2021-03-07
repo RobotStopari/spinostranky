@@ -20,6 +20,9 @@
             canvas {
                 display: none;
             }
+            #Score {
+                display: none;
+            }
         }
     </style>';
     include 'elements/head.php';
