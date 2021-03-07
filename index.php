@@ -14,6 +14,9 @@ switch($_SERVER["REQUEST_URI"]) {
     case "/nase-fotky":
         include "pages/fotografie.php";
         break;
+    case "/madarsky-gulas":
+        include "pages/gulas.php";
+        break;
     default:
         if(is_int(array_search($_SERVER["REQUEST_URI"], array_column($pages, 'url')))) {
             $actual = $pages[array_search($_SERVER["REQUEST_URI"], array_column($pages, 'url'))];
