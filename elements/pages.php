@@ -5,6 +5,36 @@ $pages = [
         "url" => "/inspiruj-se/nase-kronika",
         "active" => True,
         "content" => "<p>Zde naleznete naši kroniku - všechny zápisy a zážitky z našich akcí a výprav. Můžete se zde inspirovat, nebo si jen pročíst, co lze všechno zažít v družinovém životě.</p>
+        <h2>Spinosaurská online schůzka 4. 3. 2021</h2>
+        <p>José se rozhodl o této družinovce sepsat báseň, omluvte prosím jeho češtinu. 😉</p>
+        <p>Včera byla družinovka, tak jsme se hezky sešli <br>
+        skoro v plném počtu, přítomen dokonce i speciální host. <br>
+        Po zahájení jsme si povídali, z čeho máme radost, čeho je už dost. <br>
+        Abych to shrnul, tak pár událostí bez nichž bychom si neobešli:</p>
+        <p>Vítkovi se podařilo mít den s hodiny od dvou svých nejmilovanějších učitelů <br>
+        a Robot se snažil celou dobu zapomenout na to, že píše z chemii a z fyziky. <br>
+        Náš host naopak už měl chemii za sebou, a tak se spíše oddálil od rovnic a činitelů. <br>
+        Nik si pořídil druhou páječku, se kterou mohl konečně opravit rozbité bedničky.</p>
+        <p>Ovšem po povídání jsme přešli na první bod chystaného programu. <br>
+        Šlo o tradiční Azore přines! akorát s otázky trochu jiného rázu: <br>
+        Věc co vlastím nejdéle (Ušák) měl Nik od narození pod svoji ochranou, <br>
+        a taktéž vlastní i nejzajímavější věc, co by mít neměl (toto už bez důkazu).</p>
+        <p>Další bod programu představovalo povídání o bodu ze zákona, <br>
+        tentokrát druhý v řadě: Skaut je věrný a oddaný. <br>
+        Příjemně jsme si povídali, o čem že vlastně tento bod je, <br>
+        a až kam je se slibem, s motivací a s životem spleten.</p>
+        <p>Dále, po krátké rozcvičce, jsme se vrhli na družinový film. <br>
+        V průběhu ale došlo k úpravě, jelikož chceme spíše hudební video. <br>
+        Zprvu jsme dali dohromady pořadí, jakým to celé vznikne. <br>
+        První úkol: Ať zpod Hostovy a Robotovy ruky vznikne hudební základ.</p>
+        <p>Poté jsme si chvíli povídali, a dříve zmíněnému hostu Matěji, <br>
+        se kterým jsme celou schůzku příjemně prožili, <br>
+        jsme se snažili vysvětlit co je to Spinosaurem býti, <br>
+        tak můžeme jen doufat, že z našeho popisu nezešílí.</p>
+        <p><strong>Hláška dne:</strong><br>
+        rarh jhg uzfraqx d edv ohg yx adwcn <br>
+        gdv gx zhz qfupksdc jxr yxksf <br>
+        zdwf uwyprvp jnwfz ohg yx adwcn</p>
         <h2>Spinosaurská online schůzka 21. 1. 2021</h2>
         <div class=\"two-column\">
             <div class=\"two-column-item\">
