@@ -6,7 +6,7 @@ $people = [
         "img" => "nik.jpg",
         "color" => "green",
         "date" => "05-07",
-        "content" => "Toto je Nik. <br> Nik je vůdce našeho oddílu. Skautem je už od roku 2005. Rád čte, leze po stromech nebo hraje na kytaru či akordeon. Byl v&nbsp;krajské radě Junáka. <br>Je naším družinovým knihovNikem.",
+        "content" => "Toto je Nik. <br> Nik je vůdce našeho oddílu. Skautem je už od roku 2005. Rád čte, leze po stromech nebo hraje na kytaru či akordeon. <br>Je naším družinovým knihovNikem a&nbsp;jediným členem oddílu (krom Robota), který přečetl celý Rituálník.",
     ], [
         "name" => "Vítek",
         "img" => "vitek.jpg",
