@@ -40,8 +40,9 @@
 
 .external-icon-photo {
     width: 10%;
-    display: block;
-    margin: 3px auto 2px;
+    display: inline;
+    position: relative;
+    top: 5px;
 }
 
 
@@ -51,11 +52,11 @@
     .window {
         width: 120px;
     }
-    .window-heading {
-        width: auto;
-    }
     .window-img {
         width: 120px;
         height: 90px;
+    }
+    .external-icon-photo {
+        top: 0px;
     }
 }
