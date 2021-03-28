@@ -4,35 +4,35 @@ $pages = [
         "heading" => "Kronika",
         "url" => "/inspiruj-se/nase-kronika",
         "active" => True,
-        "content" => "<p>Zde naleznete naši kroniku - všechny zápisy a zážitky z našich akcí a výprav. Můžete se zde inspirovat, nebo si jen pročíst, co lze všechno zažít v družinovém životě.</p>
+        "content" => "<p>Zde naleznete naši kroniku&nbsp;–&nbsp;všechny zápisy a&nbsp;zážitky z&nbsp;našich akcí a&nbsp;výprav. Můžete se zde inspirovat, nebo si jen pročíst, co lze všechno zažít v&nbsp;družinovém životě.</p>
         <h2>Spinosaurská online schůzka 4. 3. 2021</h2>
-        <p>José se rozhodl o této družinovce sepsat báseň, omluvte prosím jeho češtinu. 😉</p>
+        <p>José se rozhodl o&nbsp;této družinovce sepsat báseň, omluvte prosím jeho češtinu. 😉</p>
         <p>Včera byla družinovka, tak jsme se hezky sešli <br>
-        skoro v plném počtu, přítomen dokonce i speciální host. <br>
-        Po zahájení jsme si povídali, z čeho máme radost, čeho je už dost. <br>
-        Abych to shrnul, tak pár událostí bez nichž bychom si neobešli:</p>
-        <p>Vítkovi se podařilo mít den s hodiny od dvou svých nejmilovanějších učitelů <br>
-        a Robot se snažil celou dobu zapomenout na to, že píše z chemii a z fyziky. <br>
-        Náš host naopak už měl chemii za sebou, a tak se spíše oddálil od rovnic a činitelů. <br>
+        skoro v&nbsp;plném počtu, přítomen dokonce i&nbsp;speciální host. <br>
+        Po zahájení jsme si povídali, z&nbsp;čeho máme radost, čeho je už dost. <br>
+        Abych to shrnul, tak pár událostí bez nichž bychom se neobešli:</p>
+        <p>Vítkovi se podařilo mít den s&nbsp;hodiny od dvou svých nejmilovanějších učitelů <br>
+        a&nbsp;Robot se snažil celou dobu zapomenout na to, že píše z&nbsp;chemii a&nbsp;z&nbsp;fyziky. <br>
+        Náš host naopak už měl chemii za sebou, a&nbsp;tak se spíše oddálil od rovnic a činitelů. <br>
         Nik si pořídil druhou páječku, se kterou mohl konečně opravit rozbité bedničky.</p>
         <p>Ovšem po povídání jsme přešli na první bod chystaného programu. <br>
-        Šlo o tradiční Azore přines! akorát s otázky trochu jiného rázu: <br>
+        Šlo o&nbsp;tradiční Azore přines! akorát s&nbsp;otázky trochu jiného rázu: <br>
         Věc co vlastím nejdéle (Ušák) měl Nik od narození pod svoji ochranou, <br>
-        a taktéž vlastní i nejzajímavější věc, co by mít neměl (toto už bez důkazu).</p>
-        <p>Další bod programu představovalo povídání o bodu ze zákona, <br>
-        tentokrát druhý v řadě: Skaut je věrný a oddaný. <br>
-        Příjemně jsme si povídali, o čem že vlastně tento bod je, <br>
-        a až kam je se slibem, s motivací a s životem spleten.</p>
+        a taktéž vlastní i&nbsp;nejzajímavější věc, co by mít neměl (toto už bez důkazu).</p>
+        <p>Další bod programu představovalo povídání o&nbsp;bodu ze zákona, <br>
+        tentokrát druhý v&nbsp;řadě: Skaut je věrný a&nbsp;oddaný. <br>
+        Příjemně jsme si povídali, o&nbsp;čem že vlastně tento bod je, <br>
+        a&nbsp;až kam je se slibem, s&nbsp;motivací a&nbsp;s&nbsp;životem spleten.</p>
         <p>Dále, po krátké rozcvičce, jsme se vrhli na družinový film. <br>
-        V průběhu ale došlo k úpravě, jelikož chceme spíše hudební video. <br>
+        V&nbsp;průběhu ale došlo k&nbsp;úpravě, jelikož chceme spíše hudební video. <br>
         Zprvu jsme dali dohromady pořadí, jakým to celé vznikne. <br>
         První úkol: Ať zpod Hostovy a Robotovy ruky vznikne hudební základ.</p>
-        <p>Poté jsme si chvíli povídali, a dříve zmíněnému hostu Matěji, <br>
+        <p>Poté jsme si chvíli povídali, a&nbsp;dříve zmíněnému hostu Matěji, <br>
         se kterým jsme celou schůzku příjemně prožili, <br>
         jsme se snažili vysvětlit co je to Spinosaurem býti, <br>
-        tak můžeme jen doufat, že z našeho popisu nezešílí.</p>
+        tak můžeme jen doufat, že z&nbsp;našeho popisu nezešílí.</p>
         <p><strong>Hláška dne:</strong><br>
-        rarh jhg uzfraqx d edv ohg yx adwcn <br>
+        rarh jhg uzfraqx&nbsp;d edv ohg yx adwcn <br>
         gdv gx zhz qfupksdc jxr yxksf <br>
         zdwf uwyprvp jnwfz ohg yx adwcn</p>
         <h2>Spinosaurská online schůzka 21. 1. 2021</h2>
@@ -102,10 +102,10 @@ $pages = [
 
         <h2>Spinosaurská online schůzka 7. 1. 2021</h2>
         <p>Docházka: Nik, Robot, Vítek, José (tedy všichni)</p>
-        <p>Čekajíc na Vítka, vyprávěli jsme si o Vánocích.
+        <p>Čekajíc na Vítka, vyprávěli jsme si o&nbsp;Vánocích.
         Robot dostal elektrickou kytaru, Jose slim kroj, Nik (tedy já) lego hasiče a Vítek… nevím.
-        S půlhodinovým zpožděním, kdy jsme se konečně sešli všichni, jsme zahájili schůzku zatroubením na roh a družinovým pokřikem.
-        Po té měl Nik (tedy já) asi půlhodinovou přednášku o meteorologii, čímž si splnil bod do odborky. Dozvěděli jsme se například co je to tlaková níže (neboli cyklona), nebo jak funguje studená a teplá fronta.
+        S&nbsp;půlhodinovým zpožděním, kdy jsme se konečně sešli všichni, jsme zahájili schůzku zatroubením na roh a&nbsp;družinovým pokřikem.
+        Po té měl Nik (tedy já) asi půlhodinovou přednášku o&nbsp;meteorologii, čímž si splnil bod do odborky. Dozvěděli jsme se například co je to tlaková níže (neboli cyklona), nebo jak funguje studená a&nbsp;teplá fronta.
         Následně jsme začali řešit oragnizační družinové záležitosti. Rozdělili jsme si následující schůzky.
         Příští schůzku má na starosti opět Nik (tedy já), protože ostatní mají buď uzávěrku klasifikace, nebo zkouškové. José přislíbil přednášku o automatech.
         Na závěr jsme si zahráli krunker.io. Robot střílí zcela náhodně, ale vždy trefí. Nik míří přesně, ale nikdy netrefí.
@@ -113,10 +113,10 @@ $pages = [
         Nik, 7. 1. 2021</p>
 
         <h2>Spinosaurská akce na Báře 4.‒6. 12. 2020</h2>
-        <p>V pátek jsme se sešli na Báře. Nejprve dorazil Robot a José, kteří společně vymysleli jídelníček. Poté, co přijel Vítek, došli nakoupit a vyžebrali si dvě desetikoruny do nákupních vozíčků (jednu od Martina a druhou od Ondry). Při vaření večeře, ke které bylo lečo, se dostavil Nik a Strom. Po výborné večeři jsme si pouštěli Záskok od J8ry Cimrmana. <br>
-        Druhý den jsme vstali poněkud později, ke snídani byla již celkem povedená míchaná vajíčka. Následně jsme poslouchali přednášku z Miquiku. Po jejím konci jsme se plni nových vědomostí běželi proběhnout a rychle jsme si pospíšili na další, tentokrát o sociálních sítích a jejich vlivu na společnost. Během této doby se dostavil i Kipi a naše parta byla již téměř celá. Po setmění jsme se pustili do vaření cibulačky a bramborových knedlíků k večeři, na které jsme si opět velmi pochutnali. <br>
-        Ráno nás bohužel opustili Kipi a Vítek, ale my jsme pokračovali i bez nich. Vymysleli jsme program na oddílovou výpravu následující víkend. <br>
-        Tento víkend jsme si všichni moc a moc užili. <br><br>
+        <p>V&nbsp;pátek jsme se sešli na Báře. Nejprve dorazil Robot a José, kteří společně vymysleli jídelníček. Poté, co přijel Vítek, došli nakoupit a vyžebrali si dvě desetikoruny do nákupních vozíčků (jednu od Martina a&nbsp;druhou od Ondry). Při vaření večeře, ke které bylo lečo, se dostavil Nik a&nbsp;Strom. Po výborné večeři jsme si pouštěli Záskok od Járy Cimrmana. <br>
+        Druhý den jsme vstali poněkud později, ke snídani byla již celkem povedená míchaná vajíčka. Následně jsme poslouchali přednášku z&nbsp;Miquiku. Po jejím konci jsme se plni nových vědomostí běželi proběhnout a&nbsp;rychle jsme si pospíšili na další, tentokrát o&nbsp;sociálních sítích a&nbsp;jejich vlivu na společnost. Během této doby se dostavil i&nbsp;Kipi a&nbsp;naše parta byla již téměř celá. Po setmění jsme se pustili do vaření cibulačky a&nbsp;bramborových knedlíků k večeři, na které jsme si opět velmi pochutnali. <br>
+        Ráno nás bohužel opustili Kipi a&nbsp;Vítek, ale my jsme pokračovali i&nbsp;bez nich. Vymysleli jsme program na oddílovou výpravu následující víkend. <br>
+        Tento víkend jsme si všichni moc a&nbsp;moc užili. <br><br>
         Robot, 13. 12. 2020</p>
         ",
         "color" => "green",
@@ -132,33 +132,34 @@ $pages = [
         "heading" => "Kuchařka",
         "url" => "/inspiruj-se/nase-kucharka",
         "active" => True,
-        "content" => "<p>Nemáte nápady na to, co vařit na vašich akcích? Jsou vaše obědy stále stejné?</p><p>Podívejte se do naši kuchařky! Všechna tato jídla jsme několikrát otestovali a vyladili do posledních detailů a jsou tak jednoduchá, že je zvládnete uvařit všichni.
+        "content" => "<p>Nemáte nápady na to, co vařit na vašich akcích? Jsou vaše obědy stále stejné?</p>
+        <p>Podívejte se do naši kuchařky! Všechna tato jídla jsme několikrát otestovali a&nbsp;vyladili do posledních detailů a&nbsp;jsou tak jednoduchá, že je zvládnete uvařit všichni.
         <h2>Spinosaurská cibulačka</h2>
-        <p>Potřeby: 3 bílé cibule, 3 červené cibule, mouka, cukr, bageta, sýr, sůl, pepř, bobkový list, máslo</p>
-        <p>Doba přípravy: 60 minut</p>
+        <p>Potřeby: 3&nbsp;bílé cibule, 3&nbsp;červené cibule, mouka, cukr, bageta, sýr, sůl, pepř, bobkový list, máslo</p>
+        <p>Doba přípravy: 60&nbsp;minut</p>
         <p>Porce: 5</p>
-        <p>Postup: Bílé cibule nakrájíme na kolečka a na másle je osmažíme do změknutí a zvláčnění. Do hrnce přidáme panák vody (nebo bílého vína), polévkovou lžíci cukru a 2 bobkové listy. Dusíme pod pokličkou asi pět minut. <br>
-        V druhém hrnci smažíme na másle červenou cibuli nakrájenou na kolečka, po změknutí ji za smažení zasypeme moukou a vytvoříme hustou hmotu. Bílou cibuli též zasypeme moukou a tyto dvě husté hmoty sesypeme do většího hrnce a zalijeme horkou vodou. Vodu osolíme a opepříme. <br>
-        Nakrájenou bagetu zapečeme v troubě s nastrouhaným sýrem a kousky másla, okořeníme ji dle chuti do křupava. Podáváme cibulačku se strouhaným sýrem a křupavou teplou zapečenou bagetkou.</p>
+        <p>Postup: Bílé cibule nakrájíme na kolečka a&nbsp;na másle je osmažíme do změknutí a&nbsp;zvláčnění. Do hrnce přidáme panák vody (nebo bílého vína), polévkovou lžíci cukru a&nbsp;2&nbsp;bobkové listy. Dusíme pod pokličkou asi pět minut. <br>
+        V druhém hrnci smažíme na másle červenou cibuli nakrájenou na kolečka, po změknutí ji za smažení zasypeme moukou a&nbsp;vytvoříme hustou hmotu. Bílou cibuli též zasypeme moukou a&nbsp;tyto dvě husté hmoty sesypeme do většího hrnce a&nbsp;zalijeme horkou vodou. Vodu osolíme a&nbsp;opepříme. <br>
+        Nakrájenou bagetu zapečeme v&nbsp;troubě s&nbsp;nastrouhaným sýrem a&nbsp;kousky másla, okořeníme ji dle chuti do křupava. Podáváme cibulačku se strouhaným sýrem a&nbsp;křupavou teplou zapečenou bagetkou.</p>
 
         <h2>Spinosaurské ratatouille</h2>
-        <p>Potřeby: 1 lilek, 2 cukety, 2 rajčata, 2 červené papriky, 1 plechovka loupaných rajčat, 4 stroužky česneku, olivový olej, tymián, rozmarýn, 2 cibule, pepř, sůl, bílé pečivo</p>
-        <p>Doba přípravy: 90 minut</p>
+        <p>Potřeby: 1&nbsp;lilek, 2&nbsp;cukety, 2&nbsp;rajčata, 2&nbsp;červené papriky, 1&nbsp;plechovka loupaných rajčat, 4&nbsp;stroužky česneku, olivový olej, tymián, rozmarýn, 2&nbsp;cibule, pepř, sůl, bílé pečivo</p>
+        <p>Doba přípravy: 90&nbsp;minut</p>
         <p>Porce: 5</p>
-        <p>Postup: Nakrájíme lilek, cibule a rajčata na kostičky, papriky na proužky, česnek na jemné plátky. Cukety podélně rozkrojíme a nakrájíme na půlcentimetrové kostky.<br>
-        V hrnci rozpálíme olivový olej a na něm dozlatova smažíme zeleninu v pořadí: lilek, papriky, rajčata, cibule, česnek a cuketa.<br>
-        Nyní zalijeme rajčaty z plechovky, osolíme, opepříme, promícháme směs a dusíme ji poloodkrytou pod pokličkou. Počkáme, než se odpaří většina šťávy z rajčat.<br>
-        Přidáme dvě lžíce olivového oleje, tymián a rozmarýn.<br>
-        Podáváme nejlépe s čerstvým bílým pečivem.</p>
+        <p>Postup: Nakrájíme lilek, cibule a&nbsp;rajčata na kostičky, papriky na proužky, česnek na jemné plátky. Cukety podélně rozkrojíme a&nbsp;nakrájíme na půlcentimetrové kostky.<br>
+        V hrnci rozpálíme olivový olej a&nbsp;na něm dozlatova smažíme zeleninu v&nbsp;pořadí: lilek, papriky, rajčata, cibule, česnek a&nbsp;cuketa.<br>
+        Nyní zalijeme rajčaty z&nbsp;plechovky, osolíme, opepříme, promícháme směs a&nbsp;dusíme ji poloodkrytou pod pokličkou. Počkáme, než se odpaří většina šťávy z&nbsp;rajčat.<br>
+        Přidáme dvě lžíce olivového oleje, tymián a&nbsp;rozmarýn.<br>
+        Podáváme nejlépe s&nbsp;čerstvým bílým pečivem.</p>
 
         <h2>Lečo po Spinosaursku</h2>
-        <p>Potřeby: 3 cibule, 6 paprik, 5 rajčat, sůl, pepř, provensálské byliny, tymián, máslo, 4 klobásy (dle velikosti), 3 stroužky česneku, pečivo</p>
-        <p>Doba přípravy: 45 minut</p>
+        <p>Potřeby: 3&nbsp;cibule, 6&nbsp;paprik, 5&nbsp;rajčat, sůl, pepř, provensálské byliny, tymián, máslo, 4&nbsp;klobásy (dle velikosti), 3&nbsp;stroužky česneku, pečivo</p>
+        <p>Doba přípravy: 45&nbsp;minut</p>
         <p>Porce: 5</p>
-        <p>Na másle osmažíme na kostičky nakrájenou cibulku do změknutí, přidáme natřený česnek. Po osmažení cibule přidáme na kolečka nakrájené klobásy a smažíme je do vypuštění tuku.<br>
-        Přidáme na kostičky nakrájené papriky a půl panáku vody, dusíme do změknutí paprik.<br>
-        Přidáme na kostičky nakrájená rajčata se šťávou a v ní vaříme do odpaření většiny vody. Osolíme a opepříme, přidáme koření dle chuti.<br>
-        Lečo se skvěle hodí na puťáky, nejlépe na první večeře, kdy je zelenina a pečivo ještě čerstvé.</p>
+        <p>Na másle osmažíme na kostičky nakrájenou cibulku do změknutí, přidáme natřený česnek. Po osmažení cibule přidáme na kolečka nakrájené klobásy a&nbsp;smažíme je do vypuštění tuku.<br>
+        Přidáme na kostičky nakrájené papriky a&nbsp;půl panáku vody, dusíme do změknutí paprik.<br>
+        Přidáme na kostičky nakrájená rajčata se šťávou a&nbsp;v&nbsp;ní vaříme do odpaření většiny vody. Osolíme a&nbsp;opepříme, přidáme koření dle chuti.<br>
+        Lečo se skvěle hodí na puťáky, nejlépe na první večeře, kdy je zelenina a&nbsp;pečivo ještě čerstvé.</p>
         ",
         "color" => "brown",
     ],
@@ -173,14 +174,14 @@ $pages = [
         "heading" => "Osobní rozvoj",
         "url" => "/inspiruj-se/osobni-rozvoj",
         "active" => False,
-        "content" => "<p>Zde se můžete dočíst o našem osobním rozvoji. Každý z nás se nějak posouvá v určitch oblastech a máme stanovené naše rozvojové cíle.</p><p>Tuto stránku pro vás připravujeme.</p>",
+        "content" => "<p>Zde se můžete dočíst o&nbsp;našem osobním rozvoji. Každý z&nbsp;nás se nějak posouvá v&nbsp;určitch oblastech a&nbsp;máme stanovené naše rozvojové cíle.</p><p>Tuto stránku pro vás připravujeme.</p>",
         "color" => "green",
     ],
     [
         "heading" => "Odborky",
         "url" => "/inspiruj-se/odborky",
         "active" => False,
-        "content" => "<p>Každý Spinosaurus si plní jednu odborku. O našem postupu v plnění se můžete dočíst zde.</p><p>Tuto stránku pro vás připravujeme.</p>",
+        "content" => "<p>Každý Spinosaurus si plní jednu odborku. O&nbsp;našem postupu v&nbsp;plnění se můžete dočíst zde.</p><p>Tuto stránku pro vás připravujeme.</p>",
         "color" => "blue",
     ],
     [
@@ -196,14 +197,14 @@ $pages = [
         "heading" => "Kurzy",
         "url" => "/inspiruj-se/kurzy",
         "active" => False,
-        "content" => "<p>Každý z nás byl na nějakých kurzech. Z kurzů máme mnohé prožitky a super zkušenosti. Zde si můžete přečíst, kde kdo z nás byl a co si o kurzech myslí.</p><p>Stránku pro vás připravujeme.</p>",
+        "content" => "<p>Každý&nbsp;z nás byl na nějakých kurzech. Z&nbsp;kurzů máme mnohé prožitky&nbsp;a super zkušenosti. Zde si můžete přečíst, kde kdo&nbsp;z nás byl&nbsp;a co si&nbsp;o kurzech myslí.</p><p>Stránku pro vás připravujeme.</p>",
         "color" => "brown",
     ],
     [
         "heading" => "Videotéka",
         "url" => "/inspiruj-se/videoteka",
         "active" => False,
-        "content" => "<p>Nezaostáváme v moderních technologiích a tak jsme natočili mnohá zajímavá i vtipná videa. Všechna videa naleznete na této stránce.</p><p>Videotéku pro vás připravujeme.</p>",
+        "content" => "<p>Nezaostáváme&nbsp;v moderních technologiích&nbsp;a tak jsme natočili mnohá zajímavá&nbsp;i vtipná videa. Všechna videa naleznete na této stránce.</p><p>Videotéku pro vás připravujeme.</p>",
         "color" => "blue",
     ],
 ];
