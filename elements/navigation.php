@@ -9,7 +9,7 @@
             <li class="navbar-item"><a href="/" class="navbar-link">O nás</a></li>
             <li class="navbar-item"><a href="/clenove" class="navbar-link">Členové</a></li>
             <li class="navbar-item"><a href="/nase-fotky" class="navbar-link">Fotky</a></li>
-            <li class="navbar-item navbar-item-drop"><a href="#" class="navbar-link nabar-link-drop">Inspirace</a><ul class="drop">
+            <li class="navbar-item navbar-item-drop"><span class="navbar-link nabar-link-drop">Inspirace</span><ul class="drop">
                 <?php foreach($pages as $page) {
                     if ($page["active"]) {
                         if ($page["external"]) {
