@@ -35,6 +35,7 @@ $pages = [
         rarh jhg uzfraqx&nbsp;d edv ohg yx adwcn <br>
         gdv gx zhz qfupksdc jxr yxksf <br>
         zdwf uwyprvp jnwfz ohg yx adwcn</p>
+        <p>José, 7. 3. 2021</p>
         <h2>Spinosaurská online schůzka 21. 1. 2021</h2>
         <div class=\"two-column\">
             <div class=\"two-column-item\">

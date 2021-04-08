@@ -1,9 +1,9 @@
 /* ---- styles for pages ---- */
 
 .page h2 {
-    font-family: skautbold;
+    font-family: themix;
     font-size: 30px;
-    font-weight: bolder;
+    font-weight: bold;
     margin: 25px 0px 10px;
     text-align: center;
 }

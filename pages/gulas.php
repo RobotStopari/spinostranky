@@ -12,7 +12,7 @@
     <p class="info">Pokud se ti podařilo dostat se na tuto tajnou stránku, nechej si to pro sebe. Nikdo nemá vědět, že něco takového existuje. 😁</p>
 </article>
 <div class="quote">
-    <h2 class="quote-heading">Tajná stránka:</h2>
+    <h2 class="quote-heading the">Tajná stránka:</h2>
     <p class="quote-text">Maďarský guláš!!!</p>
 </div>
 

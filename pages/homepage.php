@@ -12,12 +12,12 @@
     <p class="info">Každý z&nbsp;nás umí něco jiného a&nbsp;navzájem se učíme spoustu zajímavých dovedností. Podnikáme společně ty nejkrutější a&nbsp;nejzajímavější akce.</p>
 </article>
 <div class="quote">
-    <h2 class="quote-heading">Pokřik:</h2>
+    <h2 class="quote-heading the">Pokřik:</h2>
     <?php
     if(date('H:i') == "17:00") {
-        echo '<p class="quote-text">Nik je tajný agent!!!</p>';
+        echo '<p class="quote-text the">Nik je tajný agent!!!</p>';
     } else {
-        echo '<p class="quote-text">ROOOAAARRR!!!</p>';
+        echo '<p class="quote-text the">ROOOAAARRR!!!</p>';
     }?>
 </div>
 

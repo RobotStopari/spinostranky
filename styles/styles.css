@@ -18,15 +18,18 @@
     font-style: normal;
 }
 
-
 /* ---- styles for tags ---- */
 
 * {
     padding: 0px;
     margin: 0px;
-    font-family: themix;
+    font-family: 'Open Sans';
     font-weight: 500;
     font-size: 20px;
+}
+
+.the {
+    font-family: themix;
 }
 
 body {
