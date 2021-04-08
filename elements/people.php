@@ -18,7 +18,7 @@ $people = [
         "img" => "jose.jpg",
         "color" => "brown",
         "date" => "19-08",
-        "content" => "Toto je José. <br>Do svých 16 let bydlel v&nbsp;Mexiku, skautem je od roku 2016. Rád jezdí na kole, leze, čte, kreslí, hraje na jakýkoli hudební nástroj a&nbsp;fotí. <br>Na lidech obdivuje, když mají silnou vůli. <br>Je oddílovým ministrem byrokracie a&nbsp;zástupcem vůdce oddílu.",
+        "content" => "Toto je José. <br>Do svých 16 let bydlel v&nbsp;Mexiku, skautem je od roku 2016. Rád jezdí na kole, leze, čte, kreslí, hraje na jakýkoli hudební nástroj a&nbsp;fotí. <br>Na lidech obdivuje, když mají silnou vůli. <br>Je zástupcem vůdce oddílu.",
     ], [
         "name" => "Robot",
         "img" => "robot.jpg",
