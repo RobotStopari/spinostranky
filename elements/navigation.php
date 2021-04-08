@@ -13,7 +13,7 @@
                 <?php foreach($pages as $page) {
                     if ($page["active"]) {
                         if ($page["external"]) {
-                            echo '<li class="navbar-item-in-drop"><a href="' . $page["url"] . '" class="navbar-link-in-drop" ' . $page["target"] . '>' . $page["heading"] . '<img src="../images/main/externalBlack.png" class="external-icon"></a></li>';
+                            echo '<li class="navbar-item-in-drop"><a href="' . $page["url"] . '" class="navbar-link-in-drop" ' . $page["target"] . '>' . $page["heading"] . '<img src="../images/main/external.png" class="external-icon"></a></li>';
                         } else {
                             echo '<li class="navbar-item-in-drop"><a href="' . $page["url"] . '" class="navbar-link-in-drop" ' . $page["target"] . '>' . $page["heading"] . '</a></li>';
                         }}} ?>
