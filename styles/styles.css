@@ -100,7 +100,6 @@ h1 {
     position: absolute;
     top: 30px;
     padding-top: 15px;
-    border-radius: 100px 100px;
     z-index: 10;
 }
 
@@ -109,10 +108,11 @@ h1 {
     position: relative;
     border-left: rgb(186, 74, 20) solid 6px;
     border-bottom: rgb(186, 74, 20) solid 1px;
+    padding: 0;
 }
 
 .navbar-link-in-drop {
-    padding: 10px 15px;
+    padding: 11px 15px;
     text-decoration: none;
     color: rgb(186, 74, 20);
     font-size: 1.1em;
