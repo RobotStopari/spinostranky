@@ -98,7 +98,7 @@ $pages = [
             </ul>
         </p>
         <p>Nakonec Nik připomněl Robotovi, aby nám připomněl, abychom nezapomněli zakončit schůzku. Zakončili jsme schůzku družinovým pokřikem a&nbsp;bez Josého, který je trapný, jsme šli hrát <a href=\"https://scrible.io\" target=\"_blank\">scrible.io</a> a&nbsp;pak <a href=\"https://krunker.io\" target=\"_blank\">krunker.io</a>.</p>
-        <p>Příští schůzku má na&nbsp;starosti Robot a&nbsp;bude mít přednášku o&nbsp;pamněti.</p>
+        <p>Příští schůzku má na&nbsp;starosti Robot a&nbsp;bude mít přednášku o&nbsp;paměti.</p>
         <p>Nik, 22. 1. 2021</p>
 
         <h2>Spinosaurská online schůzka 7. 1. 2021</h2>
